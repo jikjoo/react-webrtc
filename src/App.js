@@ -7,7 +7,7 @@ import { goToRoomInput } from './components/goToRoomInput';
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <BrowserRouter basename="/react-webrtc">
        <React.Fragment>
           <Route path="/" exact component={goToRoomInput}/>
           <Route path="/:roomId" exact component={Video}/>
