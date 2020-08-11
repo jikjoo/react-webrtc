@@ -1,13 +1,13 @@
 {
   "main.css": "/react-webrtc/static/css/main.b92b3172.chunk.css",
-  "main.js": "/react-webrtc/static/js/main.c08fc37e.chunk.js",
-  "main.js.map": "/react-webrtc/static/js/main.c08fc37e.chunk.js.map",
+  "main.js": "/react-webrtc/static/js/main.219861c9.chunk.js",
+  "main.js.map": "/react-webrtc/static/js/main.219861c9.chunk.js.map",
   "runtime~main.js": "/react-webrtc/static/js/runtime~main.7a01059f.js",
   "runtime~main.js.map": "/react-webrtc/static/js/runtime~main.7a01059f.js.map",
   "static/js/2.09ce1b3c.chunk.js": "/react-webrtc/static/js/2.09ce1b3c.chunk.js",
   "static/js/2.09ce1b3c.chunk.js.map": "/react-webrtc/static/js/2.09ce1b3c.chunk.js.map",
   "index.html": "/react-webrtc/index.html",
-  "precache-manifest.48fe1d1557f017db8decfc43a49978ea.js": "/react-webrtc/precache-manifest.48fe1d1557f017db8decfc43a49978ea.js",
+  "precache-manifest.3bc4c11d7758093659580a5595624004.js": "/react-webrtc/precache-manifest.3bc4c11d7758093659580a5595624004.js",
   "service-worker.js": "/react-webrtc/service-worker.js",
   "static/css/main.b92b3172.chunk.css.map": "/react-webrtc/static/css/main.b92b3172.chunk.css.map"
 }
