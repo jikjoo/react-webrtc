@@ -13,7 +13,6 @@
     "socket.io": "^2.2.0",
     "socket.io-client": "^2.2.0"
   },
-  "homepage": "http://jikjoo.github.io/react-webrtc",
   "alias": [
     "video-chat.now.sh"
   ],
